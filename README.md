@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UskokTheNoob
-- 👀 I’m interested in OSINT
+- 👀 I’m interested in OSINT 
 - 🌱 I’m currently learning JS, Java, HTML/CSS and Bash
 - 💞️ I’m looking to collaborate on nothing now
 
